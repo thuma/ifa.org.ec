@@ -1,0 +1,107 @@
+[
+  {
+  "img":"libros/1.jpg",
+  "title":"D.M.Q. Ambiente y Salud",
+  "pdf":"docs/DMQ_AMBIENTEYSALUD2.pdf"
+  },
+  {
+  "img":"libros/2.jpg",
+  "title":"Seguridad, Salud y Ambiente en la Floricultura",
+  "pdf":"docs/floricultura.pdf"
+  },
+  {
+  "img":"libros/3.jpg",
+  "title":"El mejoramiento de la producción y el medio ambiente laboral en la pequeña industria",
+  "pdf":"docs/mejoramientoproduccion.pdf"
+  },
+  {
+  "img":"libros/4.jpg",
+  "title":"EsTRATEgIA INDUsTRIAL y medio ambiente laboral en Ecuador",
+  "pdf":"docs/estrategia_industrial.pdf"
+  },
+  {
+  "img":"libros/5.jpg",
+  "title":"Los Productos Agrícolas No Tradcionales de Exportación y las Condiciones De Trabajo",
+  "text":"ALGUNOS EJEMPLOS EN ECUADOR",
+  "pdf":"docs/LIBROPANTE.pdf"
+  },
+  {
+  "img":"libros/6.jpg",
+  "title":"SALUD EN EL TRABAJO Y REFORMAS LABORALES Documentos de discusión",
+  "pdf":"docs/saludfin.pdf"
+  },
+  {
+  "img":"libros/7.png",
+  "title":"El ambiente y la salud epidemiologia ambiental",
+  "pdf":"docs/LIBROELAMBIENTEYLASALUDEPIDEMIOLOGIAAMBIENTAL.pdf"
+  },
+  {
+  "img":"libros/8.jpg",
+  "title":"Las Relaciones Económicas y Geopolíticas entre China y América Latina",
+  "pdf":"docs/REDLAT.pdf"
+  },
+  {
+  "img":"libros/9.jpg",
+  "title":"La Relación entre Comunidad y empresa floricola",
+  "text":"el ambiente y la salud",
+  "pdf":"docs/relacion.pdf"
+  },
+  {
+  "img":"libros/11.jpg",
+  "title":"Floricultura y desarrollo local: conflictos y consensos",
+  "pdf":"docs/floriculturadesarrollolocal.pdf"
+  },
+  {
+  "img":"libros/13.png",
+  "title":"Las certificaciones en la producción floricola en equador",
+  "pdf":"docs/certificacionesflores.pdf"
+  },
+  {
+  "img":"libros/14.jpg",
+  "title":"Trabajo y Salud en ecuador: Antecedentes, eperiencias y perspectivas",
+  "pdf":"docs/TrabajosaludEcuador.pdf"
+  },
+  {
+  "img":"libros/15.jpg",
+  "title":"MACHETE, SUDOR Y ENFERMEDAD",
+  "pdf":"docs/machetesudor.pdf"
+  },
+  {
+  "img":"libros/16.jpg",
+  "title":"Condiciones de trabajo y derechos laborales en la floricultura ecuatoriana",
+  "pdf":"docs/condicionesyderechos.pdf"
+  },
+  {
+  "img":"libros/17.jpg",
+  "title":"Trabajo, Seguridad y Salud en la Industria Metalmecánica y Automotriz",
+  "pdf":"docs/LibroSeguridad.pdf"
+  },
+  {
+  "img":"libros/23.jpg",
+  "title":"Residuos peligrosos, ambiente y evaluación del impacto en salud",
+  "pdf":"docs/residuospeligrosos.pdf"
+  },
+  {
+  "img":"libros/24.jpg",
+  "title":"PRODUCCION BANANERA Impacto en la Salud y el Ambiente",
+  "pdf":"docs/LIBROBANANO.pdf"
+  },
+  {
+  "img":"libros/25.jpg",
+  "title":"Efectos Sociales de la Globalización",
+  "text":"Petrólero, banano, y flores en ecuador"
+  },
+  {
+  "img":"libros/26.jpg",
+  "title":"La minería del oro artesanal y a pequeña escala en Ecuador",
+  "text":"Trabajo, ambiente y salud",
+  "pdf":""
+  },
+  {
+  "img":"libros/27.jpg",
+  "title":"Viejos y Nuevos Problemas de Slud ocupacional",
+  "text":"Memorias del Seminario, QUITO, 25-29 de Agosto de 1997.",
+  "pdf":""
+  }
+]
+
