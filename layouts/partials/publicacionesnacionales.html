@@ -14,11 +14,13 @@
           <div class="media-body">
             <h5 class="mt-0">{{ .title }}</h5>
             <p>{{ .text }}</p>
-            {{ if ne .pdf "" }}
-            <a href="{{ .pdf }}" target="_blank">Descargar</a>
-            {{ else }}
-               <a href="mailto:ifa@ifa.org.ec?subject=Ordernar: {{ .title }}">Quieres ordenar este libro?</a>  Envía un e-mail a: ifa@ifa.org.ec
-            {{ end }}
+              {{ if eq .pdf "buy" }}
+                <a href="mailto:ifa@ifa.org.ec?subject=Ordernar: {{ .title }}">Quieres ordenar este libro?</a>  Envía un e-mail a: ifa@ifa.org.ec
+              {{ else if eq .pdf "" }}
+                <a href="mailto:ifa@ifa.org.ec?subject=Interesado: {{ .title }}">Estás interesado en este libro?</a>  Envía un e-mail a: ifa@ifa.org.ec
+              {{ else }}
+                <a href="{{ .pdf }}" target="_blank">Descargar</a>
+              {{ end }}
           </div>
         </div>
       </div>

@@ -1,23 +1,23 @@
 [
   { 
-    "title":"Childrens environment and health in ecuador",
+    "title":"Children's environment and health in ecuador:",
     "img":"img/poster/ChildrensEnvironmentEcuador.jpg",
     "pdf":"docs/poster/ChildrensEnvironmentEcuador.pdf",
-    "text":"For examples",
+    "text":"Four examples",
     "year":""
    },
    { 
-    "title":"International cooperation Olav Axelson",
+    "title":"Olav Axelson in the international cooperation",
     "img":"img/poster/InternationalCooperation_OlavAxelson.jpg",
     "pdf":"docs/poster/InternationalCooperation_OlavAxelson.pdf",
     "text":"",
     "year":""
    },
    { 
-    "title":"International cooperation in environmental epidemiology",
+    "title":"International cooperation in environmental epidemiology:",
     "img":"img/poster/InternationalCooperationISS-IFA.jpg",
     "pdf":"docs/poster/InternationalCooperationISS-IFA.pdf",
-    "text":"The case-study of iss (Italy) - IFA (Ecudator) cooperation",
+    "text":"The case-study of ISS (Italy) - IFA (Ecudador) cooperation",
     "year":""
    },
    { 
@@ -28,7 +28,7 @@
     "year":""
    },
    { 
-    "title":"Training ecuadorian auto workers on occupational healt and safety",
+    "title":"Training ecuadorian auto workers on occupational health and safety",
     "img":"img/poster/Metalmecanicos_capacitacion_ENG.jpg",
     "pdf":"docs/poster/Metalmecanicos_capacitacion_ENG.pdf",
     "text":"",
@@ -42,28 +42,28 @@
     "year":""
    },
    { 
-    "title":"Fumigacón aérea de plaguicidas en plantaciones bananeras en Ecuador",
+    "title":"Fumigación aérea de plaguicidas en plantaciones bananeras en Ecuador:",
     "img":"img/poster/Plaguicidas_FumigacionAerea.jpg",
     "pdf":"docs/poster/Plaguicidas_FumigacionAerea.pdf",
-    "text":"Efectos a al salud en trabajadoeres y poblaciones aledañas",
+    "text":"Efectos a la salud en trabajadores y poblaciones aledañas",
     "year":""
    },
    { 
-    "title":"Aerial spraying of pestesides in banana plantation in Ecuador",
+    "title":"Aerial spraying of pesticides in banana plantations in Ecuador:",
     "img":"img/poster/Plaguicidas_FumigacionAerea_ENG.jpg",
     "pdf":"docs/poster/Plaguicidas_FumigacionAerea_ENG.pdf",
     "text":"Health effects among workers and surrounding population",
     "year":""
    },
    { 
-    "title":"Low level and long term exposure to multiple pestecides and castogenhic effects in a flower plantation in Ecuador",
+    "title":"Low level and long term exposure to multiple pesticides and clastogenic effects in a flower plantation in Ecuador",
     "img":"img/poster/Plaguicidas_PesticidesClastogenicEffects.jpg",
     "pdf":"docs/poster/Plaguicidas_PesticidesClastogenicEffects.pdf",
     "text":"",
     "year":""
    },
    { 
-    "title":"El uso trazador florescente en producción de flores, bananos y papas en Ecuador",
+    "title":"El uso del trazador fluorescente en producción de flores, bananos y papas en Ecuador",
     "img":"img/poster/Plaguicidas_TrazadorFluorescenteEcuador.jpg",
     "pdf":"docs/poster/Plaguicidas_TrazadorFluorescenteEcuador.pdf",
     "text":"",
@@ -77,21 +77,21 @@
     "year":""
    },
    { 
-    "title":"Dermatological impacts of exposure to pesticides in banana workers surrounding population and none exposed population n Quevedo, Ecuador",
+    "title":"Dermatological impacts of exposure to pesticides in banana workers, surrounding population and non exposed population in Quevedo, Ecuador",
     "img":"img/poster/Plaguicidas_ImpactoDermatologico_ENG.jpg",
     "pdf":"docs/poster/Plaguicidas_ImpactoDermatologico_ENG.pdf",
     "text":"",
     "year":""
    },
    { 
-    "title":"Occupational exposure to organophosphorus in insecticides in floriculture in Ecuador.",
+    "title":"Occupational exposure to organophosphorus insecticides in floriculture in Ecuador",
     "img":"img/poster/Plaguicidas_Organophosphates.jpg",
     "pdf":"docs/poster/Plaguicidas_Organophosphates.pdf",
     "text":"",
     "year":""
    },
    { 
-    "title":"Pestide exposure as independent predictor of neurological functioning and blood pressure in ecuadorian school children",
+    "title":"Pesticide exposure as independent predictor of neurological functioning and blood pressure in ecuadorian school children",
     "img":"img/poster/Plaguicidas_PesticidesChildren.jpg",
     "pdf":"docs/poster/Plaguicidas_PesticidesChildren.pdf",
     "text":"",
@@ -105,38 +105,31 @@
     "year":""
    },
    { 
-    "title":"Silicosis among gold miners Ecuador",
+    "title":"Silicosis among gold miners in Ecuador",
     "img":"img/poster/SilicosisGoldMiners.jpg",
     "pdf":"docs/poster/SilicosisGoldMiners.pdf",
     "text":"",
     "year":""
    },
    { 
-    "title":"Sugar-cane harvesting",
+    "title":"Sugar-cane harvesting:",
     "img":"img/poster/SugarCaneWorkers.jpg",
     "pdf":"docs/poster/SugarCaneWorkers.pdf",
     "text":"Can we protect both the workers' health and their jobs?",
     "year":""
    },
    { 
-    "title":"About PHIME",
-    "img":"img/poster/PHIME_triptico.jpg",
-    "pdf":"docs/poster/PHIME_triptico.pdf",
-    "text":"PHIME-Public Health Inpact of long-term, low lever Mixed element Exposure in suseptible population strata.",
-    "year":""
-   },
-   { 
-    "title":"PHIME Project in Ecuador",
+    "title":"PHIME Project in Ecuador:",
     "img":"img/poster/PHIMEpreliminaryResults.jpg",
     "pdf":"docs/poster/PHIMEpreliminaryResults.pdf",
-    "text":"Preliminary results.",
+    "text":"Preliminary results",
     "year":""
    },
    { 
-    "title":"Gene-environment interaction of elemental mercury",
+    "title":"Gene-environment interaction of elemental mercury:",
     "img":"img/poster/PHIMEprojectMining.jpg",
     "pdf":"docs/poster/PHIMEprojectMining.pdf",
-    "text":"Integrated Project sponsored by the European Commission.",
+    "text":"Integrated Project sponsored by the European Commission",
     "year":""
    }
 ]

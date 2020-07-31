@@ -21,8 +21,8 @@
   },
   {
   "img":"libros/5.jpg",
-  "title":"Los Productos Agrícolas No Tradcionales de Exportación y las Condiciones De Trabajo",
-  "text":"ALGUNOS EJEMPLOS EN ECUADOR",
+  "title":"Los Productos Agrícolas No Tradicionales de Exportación y las Condiciones De Trabajo:",
+  "text":"Algunos ejemplos en ecuador",
   "pdf":"docs/LIBROPANTE.pdf"
   },
   {
@@ -32,7 +32,8 @@
   },
   {
   "img":"libros/7.png",
-  "title":"El ambiente y la salud epidemiologia ambiental",
+  "title":"El ambiente y la salud",
+  "text": "Epidemiología ambiental",
   "pdf":"docs/LIBROELAMBIENTEYLASALUDEPIDEMIOLOGIAAMBIENTAL.pdf"
   },
   {
@@ -42,23 +43,25 @@
   },
   {
   "img":"libros/9.jpg",
-  "title":"La Relación entre Comunidad y empresa floricola",
-  "text":"el ambiente y la salud",
+  "title":"La Relación entre Comunidad y empresa florícola:",
+  "text":"El ambiente y la salud",
   "pdf":"docs/relacion.pdf"
   },
   {
   "img":"libros/11.jpg",
-  "title":"Floricultura y desarrollo local: conflictos y consensos",
+  "title":"Floricultura y desarrollo local:",
+  "text":"Conflictos y consensos",
   "pdf":"docs/floriculturadesarrollolocal.pdf"
   },
   {
   "img":"libros/13.png",
-  "title":"Las certificaciones en la producción floricola en equador",
+  "title":"Las certificaciones en la producción florícola en ecuador",
   "pdf":"docs/certificacionesflores.pdf"
   },
   {
   "img":"libros/14.jpg",
-  "title":"Trabajo y Salud en ecuador: Antecedentes, eperiencias y perspectivas",
+  "title":"Trabajo y Salud en ecuador:",
+  "text":"Antecedentes, experiencias y perspectivas",
   "pdf":"docs/TrabajosaludEcuador.pdf"
   },
   {
@@ -83,24 +86,32 @@
   },
   {
   "img":"libros/24.jpg",
-  "title":"PRODUCCION BANANERA Impacto en la Salud y el Ambiente",
+  "title":"PRODUCCIÓN BANANERA:",
+  "text":"Impacto en la Salud y el Ambiente",
   "pdf":"docs/LIBROBANANO.pdf"
   },
   {
   "img":"libros/25.jpg",
   "title":"Efectos Sociales de la Globalización",
-  "text":"Petrólero, banano, y flores en ecuador"
+  "text":"Petrólero, banano, y flores en Ecuador",
+  "pdf":""
   },
   {
   "img":"libros/26.jpg",
   "title":"La minería del oro artesanal y a pequeña escala en Ecuador",
   "text":"Trabajo, ambiente y salud",
-  "pdf":""
+  "pdf":"buy"
   },
   {
   "img":"libros/27.jpg",
-  "title":"Viejos y Nuevos Problemas de Slud ocupacional",
+  "title":"Viejos y Nuevos Problemas de Salud ocupacional",
   "text":"Memorias del Seminario, QUITO, 25-29 de Agosto de 1997.",
+  "pdf":""
+  },
+  {
+  "img":"libros/35.jpg",
+  "title":"Trabajo Infantil y Salud",
+  "text":"",
   "pdf":""
   }
 ]

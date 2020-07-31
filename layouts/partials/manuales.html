@@ -1,6 +1,6 @@
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="manuales">
   <div class="my-auto">
-    <h2 class="mb-5">Manuales</h2>
+    <h2 class="mb-5">Manuales y Revistas</h2>
     {{ $headless := .Site.GetPage "/img" }}
     <div class="row"> 
      {{ range $.Site.Data.manuales }}
@@ -13,10 +13,13 @@
             alt="{{ .title }}">
           <div class="media-body">
             <h5 class="mt-0">{{ .title }}</h5>
-            {{ if ne .pdf "" }}
+            <p>{{ .text }}</p>
+            {{ if .pdf }}
             <a href="{{ .pdf }}" target="_blank">Descargar</a>
+            {{ else if .pdfindex }}
+            <a href="{{ .pdfindex }}" target="_blank">Descargar índice</a>
             {{ else }}
-               <a href="mailto:ifa@ifa.org.ec?subject=Manual: {{ .title }}">¿Estás interesado en este manual?</a>  Envía un e-mail a: ifa@ifa.org.ec
+            <a href="mailto:ifa@ifa.org.ec?subject=Manual: {{ .title }}">¿Estás interesado en este manual?</a>  Envía un e-mail a: ifa@ifa.org.ec
             {{ end }}
           </div>
         </div>

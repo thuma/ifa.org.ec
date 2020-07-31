@@ -6,17 +6,19 @@
   },
   {
   "img":"libros/12.jpg",
-  "title":"Manual de seguridad, salud y ambiente en la produccin bananera",
+  "title":"Manual de seguridad, salud y ambiente en la producción bananera",
   "pdf":"docs/seguridadbanano2.pdf"
   },
   {
   "img":"libros/32.jpg",
-  "title":"Mapa Territorial de riesgos ambientales, una tecnica participativa",
+  "title":"Mapa Territorial de riesgos ambientales:",
+  "text":"Una técnica participativa",
   "pdf":""
   },
   {
   "img":"libros/28.jpg",
-  "title":"Mapa Territorial de Riesgos Ambientales, Propuesta instrumental",
+  "title":"Mapa Territorial de Riesgos Ambientales:",
+  "text":"Propuesta instrumental",
   "pdf":""
   },
   {
@@ -26,12 +28,12 @@
   },
   {
   "img":"libros/29.jpg",
-  "title":"El Mejoramiento de la Produccion y el medio ambiente de trabajo en la pequeña industria",
+  "title":"El Mejoramiento de la Producción y el medio ambiente de trabajo en la pequeña industria",
   "pdf":""
   },
   {
   "img":"libros/30.jpg",
-  "title":"Riesgos del trabajo agricola",
+  "title":"Riesgos del trabajo agrícola",
   "pdf":""
   },
   {
@@ -46,8 +48,33 @@
   },
   {
   "img":"libros/34.jpg",
-  "title":"Manual de enrenameiento seguridad salyd y condiciones de trabajao",
+  "title":"Manual de entrenamiento:",
+  "text":"Seguridad salud y condiciones de trabajo",
   "pdf":""
+  },
+  {
+  "img":"revistas/nm01.jpg",
+  "title":"Revista: Industria nuevo milenio",
+  "text":"No.1 Marzo 1998",
+  "pdfindex":"docs/revistas/nm01.pdf"
+  },
+  {
+  "img":"revistas/nm02.jpg",
+  "title":"Revista: Industria nuevo milenio",
+  "text":"No.2 Agosto 1998",
+  "pdfindex":"docs/revistas/nm02.pdf"
+  },
+  {
+  "img":"revistas/nm03.jpg",
+  "title":"Revista: Industria nuevo milenio",
+  "text":"No.3 Noviembre 1998",
+  "pdfindex":"docs/revistas/nm03.pdf"
+  },
+  {
+  "img":"revistas/nm04.jpg",
+  "title":"Revista: Industria nuevo milenio",
+  "text":"No.4 Abril 1999",
+  "pdfindex":"docs/revistas/nm04.pdf"
   }
 ]
 
