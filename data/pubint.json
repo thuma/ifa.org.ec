@@ -68,8 +68,8 @@
   "year":"1999"
   },
   {
-  "title":"Nephro and neurotoxic effects in long-term mercury exposed gold miners and byers.",
-  "author":"Gerhardsson L, Harari R, Schütz A,  Staffan S.",
+  "title":"Nephro and neurotoxic effects in long-term mercury exposed gold miners and buyers.",
+  "author":"Gerhardsson L, Harari R, Schütz A, Skerfving S.",
   "journal":"Toxicology of Metals. A symposium in memory of Andrejs Schütz, PhD. Lund University. Department of Occupational and Environmental Medicine. Sweden. 2002.",
   "year":"2002"
   },
@@ -87,7 +87,7 @@
   "year":"2003"
   },
   {
-  "title":"http://www.ncbi.nlm.nih.gov/pubmed/15212223",
+  "link":"http://www.ncbi.nlm.nih.gov/pubmed/15212223",
   "title":"Major concerns in developing countries: applications of the Precautionary Principle in Ecuador.",
   "author":"Harari R, Freire Morales R, Harari H.",
   "journal":"Int J Occup Med Environ Health. 2004;17(1):187-91.",
@@ -214,24 +214,6 @@
   "year":"2012"
   },
   {
-  "title":"Integrating Modeling and Application of Standardized Data Scheme.",
-  "author":"Hossain M, Harari N, Semere D, Mårtesson P, Ng A, Andersson M.",
-  "journal":"Swedish Production Symposium, Linköping, Sweden, 2012.",
-  "year":"2012"
-  },
-  {
-  "title":"Integrating Modeling and Application of Standardized Data Scheme.",
-  "author":"Hossain M, Harari N, Semere D, Mårtesson P, Ng A, Andersson M.",
-  "journal":"Swedish Production Symposium, Linköping, Sweden, 2012.",
-  "year":"2012"
-  },
-  {
-  "title":"Manufacturing systems model interoperability in discrete event simulation.",
-  "author":"Svensson Harari N.",
-  "journal":"Master of Science Thesis. The Royal Institute of Technology, Industrial Engineering and Management. Stockholm, Sweden 2012",
-  "year":"2012"
-  },
-  {
   "link":"http://www.ncbi.nlm.nih.gov/pubmed/23017911",
   "title":"Early-life exposure to lithium and boron from drinking water.",
   "author":"Harari F, Ronco AM, Concha G, Llanos M, Grandér M, Castro F, Palm B, Nermell B, Vahter M.",
@@ -283,7 +265,7 @@
   {
   "author":"Harari H, Albuja G, Harari R.",
   "title":"The Use of fluorescent tracer testing in Ecuadorian floriculture:",
-  "sitle":"An analysis of exposure by workers during in-field and greenhouse cultivation.",
+  "stitle":"An analysis of exposure by workers during in-field and greenhouse cultivation.",
   "journal":"Pesticide Safety News. Volume 7, Number 3, IV trimester 2003.",
   "year":"2003"
   },
@@ -550,7 +532,7 @@
   "journal":"Proceedings of ICPR, 22nd International Conference on Production Research, Iguassu Falls, Brazil."
   },
   {
-  "author":"Hossain M, Harari N, Semere D, Mårtensson P., Ng A., Andersson M.",
+  "author":"Hossain M, Harari N, Semere D, Mårtensson P, Ng A, Andersson M.",
   "year":"2012",
   "title":"Integrated modeling and application of standardized data schema.",
   "journal":"Proceedings of the 5th Swedish Production Symposium, (SPS12), Linköping, Sweden.",
@@ -560,7 +542,37 @@
   "author":"Svensson Harari N.",
   "year":"2012",
   "title":"Manufacturing Systems Model Interoperability in Discrete Event Simulation. Master’s Thesis.",
-  "journal":"The Royal Institute of Technology, Stockholm, Sweden.",
+  "journal":"Master of Science Thesis. The Royal Institute of Technology, Industrial Engineering and Management. Stockholm, Sweden 2012",
   "link":"https://www.diva-portal.org/smash/get/diva2:510834/FULLTEXT01.pdf"
+  },
+  {
+  "title":"Residual Isocyanates in Medical Devices and Products:",
+  "stitle":"A Qualitative and Quantitative Assessment.",
+  "author":"Franklin G, Harari H, Ahsan S, Bello D, Sterling DA, Nedrelow J, Raynaud S, Biswas S, Liu Y.",
+  "journal":"Environ Health Insights. 2016 Oct 13;10:175-190. doi: 10.4137/EHI.S39149. eCollection 2016.PMID: 27773989 Free PMC article.",
+  "year":"2016",
+  "link":"https://pubmed.ncbi.nlm.nih.gov/27773989/"
+  },
+  {
+  "title":"Transferability of aliphatic isocyanates from recently applied paints to the skin of auto body shop workers.",
+  "author":"De Vries TT, Bello D, Stowe MH, Harari H, Slade MD, Redlich CA.",
+  "journal":"J Occup Environ Hyg. 2012;9(12):699-711. doi: 10.1080/15459624.2012.728893.PMID: 23067057",
+  "year":"2012",
+  "link":"https://pubmed.ncbi.nlm.nih.gov/23067057/"
+  },
+  {
+  "title":"Development of an Interception Glove Sampler for Skin Exposures to Aromatic Isocyanates.",
+  "author":"Harari H, Bello D, Woskie S, Redlich C.",
+  "journal":"Ann Occup Hyg. 2016 Nov;60(9):1092-1103. doi: 10.1093/annhyg/mew052. Epub 2016 Sep 30.PMID: 27694341",
+  "year":"2016",
+  "link":"https://pubmed.ncbi.nlm.nih.gov/27694341/"
+  },
+  {
+  "title":"Artificial Turf Infill:",
+  "stitle":"A Comparative Assessment of Chemical Contents.",
+  "author":"Massey R, Pollard L, Jacobs M, Onasch J, Harari H.",
+  "journal":"New Solut. 2020 May;30(1):10-26. doi: 10.1177/1048291120906206. Epub 2020 Feb 23.PMID: 32089037 No abstract available.",
+  "year":"2020",
+  "link":"https://pubmed.ncbi.nlm.nih.gov/32089037/"
   }
 ]

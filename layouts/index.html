@@ -70,6 +70,18 @@
     menuDiv.setAttribute("class","collapse navbar-collapse");
   }
   </script>
+  <!-- Matomo -->
+  <script>
+  fetch('https://api.thure.org/visit.php?url='+encodeURIComponent("https://www.ifa.org.ec/"))
+      .then(function(response) {});
+
+  document.addEventListener('mousedown', function (event) {
+    if(event.target.nodeName === "A"){
+      fetch('https://api.thure.org/visit.php?url='+encodeURIComponent(event.target.href))
+      .then(function(response) {});
+    }
+  });
+  </script>
   </body>
 
 </html>
