@@ -3,7 +3,7 @@
     <h2 class="mb-5">Colaboraciones</h2>
     <p>
     <ul style="font-size: 0.8rem;" class="fa-ul mb-0">
-      {{ range ( sort $.Site.Data.coop ".start" "desc" ) }}
+      {{ range $.Site.Data.coop }}
       <li>
         <i class="fa-li fa fa-gear"></i> {{ .coop }}
         {{ if .end }}
