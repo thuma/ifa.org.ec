@@ -2,3 +2,9 @@ baseURL = "https://www.ifa.org.ec/"
 languageCode = "es-ec"
 title = "IFA - Corporación para el Desarrollo de la Producción y el Medio Ambiente Laboral"
 publishDir = "../ifaecuador.github.io"
+defaultContentLanguage = 'es'
+[languages]
+  [languages.es]
+    weight = 1
+  [languages.en]
+    weight = 2

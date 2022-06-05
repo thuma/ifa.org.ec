@@ -1,21 +1,21 @@
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="manuales">
   <div class="my-auto">
     <h2 class="mb-5">Manuales y Revistas</h2>
-    {{ $headless := .Site.GetPage "/img" }}
     <div class="row"> 
-     {{ range $.Site.Data.manuales }}
+     {{ range .Site.Data.manuales }}
+     {{ $img := resources.Get .img}}
+     {{ $img := $img.Resize "360x" }}
       <div class="col-md-6 col-sm-12">
         <div class="media book">
-         {{ $img := ($headless.Resources.GetMatch .img) }}
           <img
             class="mr-3 book"
-            src="{{ ($img.Resize "360x").RelPermalink }}"
+            src="{{ $img.RelPermalink }}"
             alt="{{ .title }}">
           <div class="media-body">
             <h5 class="mt-0">{{ .title }}</h5>
-            <p>{{ .text }}</p>
+            <p>{{ .text }} </p>
             {{ if .pdf }}
-            <a href="{{ .pdf }}" target="_blank">Descargar</a>
+            <a href="{{ .pdf }}" target="_blank">{{ i18n "download" }}</a>
             {{ else if .pdfindex }}
             <a href="{{ .pdfindex }}" target="_blank">Descargar índice</a>
             {{ else }}
