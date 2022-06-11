@@ -1,2 +1,30 @@
 [download]
   other= "Download"
+
+[natpub]
+  other = "National Publications"
+  
+[handbooks]
+  other = "Handbooks"
+
+[services]
+  other = "Services"
+
+[intpub]
+  other = "International Publications"
+  
+[intproj]
+  other = "International Projects"
+
+[seminars]
+  other = "Seminars and Conferences"
+
+[posters] 
+  other = "Posters"
+
+[collab]
+  other = "Collaborations"
+  
+[contact]
+  other = "Contact"
+  

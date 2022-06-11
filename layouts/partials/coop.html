@@ -1,6 +1,6 @@
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="coop">
   <div class="my-auto">
-    <h2 class="mb-5">Colaboraciones</h2>
+    <h2 class="mb-5">{{ i18n "collab" }}</h2>
     <p>
     <ul style="font-size: 0.8rem;" class="fa-ul mb-0">
       {{ range $.Site.Data.coop }}
@@ -11,7 +11,7 @@
         {{ else }}
         <i>{{ .start }}</i>
         {{ end }}
-      <li>
+      </li>
       {{ end }}
     </ul>
     </p>

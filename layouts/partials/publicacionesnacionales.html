@@ -1,6 +1,6 @@
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="publicacionesnacionales">
   <div class="my-auto">
-    <h2 class="mb-5">Publicaciones Nacionales</h2>
+    <h2 class="mb-5">{{ i18n "natpub" }}</h2>
     <div class="row">
       {{ range $.Site.Data.pubnat }}
       {{ $img := resources.Get .img}}
@@ -19,7 +19,7 @@
               {{ else if eq .pdf "" }}
                 <a href="mailto:ifa@ifa.org.ec?subject=Interesado: {{ .title }}">Estás interesado en este libro?</a>  Envía un e-mail a: ifa@ifa.org.ec
               {{ else }}
-                <a href="{{ .pdf }}" target="_blank">Descargar</a>
+                <a href="/{{ .pdf }}" target="_blank">{{ i18n "download" }}</a>
               {{ end }}
           </div>
         </div>

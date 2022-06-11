@@ -1,7 +1,8 @@
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="servicios">
   <div class="my-auto">
-    <h2 class="mb-5">Servicios</h2>
+    <h2 class="mb-5">{{ i18n "services" }}</h2>
     <p>
+     {{ if (eq (string .Language) "es") }}
     <h5>INVESTIGACIÓN</h5>
     <ul class="fa-ul mb-0">
       <li>
@@ -62,6 +63,70 @@
     universidades, ONG's y personas naturales y jurídicas
     dedicadas a esta temática, a nivel nacional e internacional.</strong>
     </p>
+    {{ else }}
+    <h5>RESEARCH</h5>
+    <ul class="fa-ul mb-0">
+      <li>
+        <i class="fa-li fa fa-check"></i> Environmental monitoring
+      </li>
+      <li>
+        <i class="fa-li fa fa-check"></i> Biological monitoring
+      </li>
+      <li>
+        <i class="fa-li fa fa-check"></i> Biostatistics
+      </li>
+      <li>
+        <i class="fa-li fa fa-check"></i> Environmental and occupational epidemiology
+      </li>
+      <li>
+        <i class="fa-li fa fa-check"></i> Pre-occupational and post-occupational examinations and epidemiological
+surveillance
+      </li>
+    </ul>
+    </p>
+    <p>
+    <h5>COMMUNICATION</h5>
+    <ul class="fa-ul mb-0">
+      <li>
+        <i class="fa-li fa fa-check"></i> Dissemination of the conclusions of the different studies to different
+stakeholders
+      </li>
+      <li>
+        <i class="fa-li fa fa-check"></i> Elaboration of manuals about different occupational and environmental
+topics
+      </li>
+    </ul>
+    </p>
+    <p>
+    <h5>TRAINING AND EDUCATION</h5>
+    <ul class="fa-ul mb-0">
+      <li>
+        <i class="fa-li fa fa-check"></i> Courses and seminars on occupational and environmental medicine
+      </li>
+      <li>
+        <i class="fa-li fa fa-check"></i> National and International training events in collaboration with international
+partners
+      </li>
+    </ul>
+    </p>
+    <p>
+    <h5>ADVISORY</h5>
+    <ul class="fa-ul mb-0">
+      <li>
+        <i class="fa-li fa fa-check"></i>Technical and scientific support on safety and industrial hygiene,
+occupational and environmental health and work organization
+      </li>
+      <li>
+        <i class="fa-li fa fa-check"></i>Improvement of working conditions
+      </li>
+    </ul>
+    </p>
+    <p>
+    <strong>IFA works with public and private organizations, Universities, NGOs,
+natural and juridic persons dedicated to this thematic in a national and
+international level.</strong>
+    </p>
+    {{ end }}
     
   </div>
 </section>

@@ -1,6 +1,6 @@
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="publicacionesinternacionales">
   <div class="my-auto">
-    <h2 class="mb-5">Publicaciones Internacionales</h2>
+    <h2 class="mb-5">{{ i18n "intpub" }}</h2>
     {{ $alfa := sort $.Site.Data.pubint "title" }}
     {{ $alfau := uniq (apply (sort $alfa "year" "desc") "index" "." "year") }}
     {{ range $year := $alfau }}

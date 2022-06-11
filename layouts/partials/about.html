@@ -1,8 +1,9 @@
 <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
   <div class="my-auto">
-    <h1 class="mb-0">IFA - Ecuador
-    </h1>
-    <div class="subheading mb-5">Corporación para el Desarrollo de la Producción y el Medio Ambiente Laboral.
+    <h1 class="mb-0">IFA - Ecuador</h1>
+    {{ if (eq (string .Language) "es") }}
+    <div class="subheading mb-5">
+      Corporación para el Desarrollo de la Producción y el Medio Ambiente Laboral.
     </div>
     <p>IFA Corporación para el Desarrollo de la Producción y el Medio
   Ambiente Laboral, es una institución ecuatoriano-sueca,
@@ -22,6 +23,30 @@
   industrial, entre otros, se ha producido material de divulgación
   científica así como publicaciones para la comunicación de los
   riesgos a la comunidad y a los trabajadores.</p>
+  {{ else }}
+    <div class="subheading mb-5">
+      INSTITUTE FOR THE DEVELOPMENT OF PRODUCTION AND THE WORK ENVIRONMENT
+    </div>
+    
+    <p>
+      IFA is an Ecuadorian-Swedish non-profit organization established in Quito in
+      1992. IFA conducts research, communication and training in Work Organization,
+      Safety, Environmental and Occupational Health.
+    </p>
+    
+    <p>
+      IFA conducts activities to evaluate the work environment in different production
+      processes, its impact on the environment and its effects on the health of workers
+      and communities.
+    </p>
+
+    <p class="mb-5">
+      IFA has vast experience in different productive and industrial sectors such as
+      flower and banana production, oil and mining, manufacturing, among others.
+      Diverse scientific dissemination material has been produced and published for
+      communicating risks to communities and workers.
+    </p>
+  {{ end }}
     <ul class="list-inline mb-0">
       <li class="list-inline-item">
         <img class="rounded-expimg" src="/img/bacteria.jpg">
