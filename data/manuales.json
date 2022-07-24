@@ -56,7 +56,7 @@
   "img":"revistas/nm01.jpg",
   "title":"Revista: Industria nuevo milenio",
   "text":"No.1 Marzo 1998",
-  "pdfindex":"docs/revistas/nm01.pdf"
+  "pdf":"docs/revistas/NM1998no1.pdf"
   },
   {
   "img":"revistas/nm02.jpg",
@@ -68,13 +68,13 @@
   "img":"revistas/nm03.jpg",
   "title":"Revista: Industria nuevo milenio",
   "text":"No.3 Noviembre 1998",
-  "pdfindex":"docs/revistas/nm03.pdf"
+  "pdf":"docs/revistas/NM1998no3.pdf"
   },
   {
   "img":"revistas/nm04.jpg",
   "title":"Revista: Industria nuevo milenio",
   "text":"No.4 Abril 1999",
-  "pdf":"docs/revistas/NM1998no4.pdf"
+  "pdf":"docs/revistas/NM1999no4.pdf"
   }
 ]
 
