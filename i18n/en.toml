@@ -12,7 +12,7 @@
 
 [intpub]
   other = "International Publications"
-  
+
 [intproj]
   other = "International Projects"
 
@@ -27,4 +27,18 @@
   
 [contact]
   other = "Contact"
+
+[Telefono]
+  other = "Phone number"
+
+[Celular]
+  other = "Mobile phone number"
+
+[Email]
+  other = "E-mail"
+
+[POBox]
+  other = "PO Box"
   
+[Direccion]
+  other = "Address"

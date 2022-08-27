@@ -27,4 +27,18 @@
   
 [contact]
   other = "Contacto"
-  
+
+[Telefono]
+  other = "Teléfono"
+
+[Celular]
+  other = "Celular"
+
+[Email]
+  other = "E-mail"
+
+[POBox]
+  other = "Casilla de Correo Postal No."
+
+[Direccion]
+  other = "Dirección"
